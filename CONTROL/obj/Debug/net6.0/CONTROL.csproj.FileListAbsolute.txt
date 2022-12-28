@@ -1,0 +1,15 @@
+C:\TASKDOM\CONTROL\bin\Debug\net6.0\CONTROL.exe
+C:\TASKDOM\CONTROL\bin\Debug\net6.0\CONTROL.deps.json
+C:\TASKDOM\CONTROL\bin\Debug\net6.0\CONTROL.runtimeconfig.json
+C:\TASKDOM\CONTROL\bin\Debug\net6.0\CONTROL.dll
+C:\TASKDOM\CONTROL\bin\Debug\net6.0\CONTROL.pdb
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.csproj.AssemblyReference.cache
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.AssemblyInfoInputs.cache
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.AssemblyInfo.cs
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.csproj.CoreCompileInputs.cache
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.dll
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\refint\CONTROL.dll
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.pdb
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\CONTROL.genruntimeconfig.cache
+C:\TASKDOM\CONTROL\obj\Debug\net6.0\ref\CONTROL.dll
